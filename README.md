@@ -47,9 +47,15 @@ Tip: Now that you've trimmed and cleaned your data, you're ready to move on to e
 ## Conclusions
 
 -.Highest Profit Year: The analysis revealed that the year 2015 had the highest profit rate in the dataset.
+
 -.Highest Rated Movie: The movie titled "The Story of Film: An Odyssey" obtained the highest rating of 9.2.
+
 -.Highest and Lowest Revenues: The movie "Avatar" had the highest revenue, while "Wild Card" had the lowest revenue.
+
 -.Budget vs. Ratings: There was a weak positive correlation (correlation coefficient ≈ 0.08) between movie budgets and ratings.
+
 -.Highest and Lowest Budget Movies: "The Warrior's Way" had the highest budget, while "Mr. Holmes" had the lowest budget.
+
 -.Release Trends: The year 2014 saw the highest number of movie releases, while 1961 had the lowest.
+
 
